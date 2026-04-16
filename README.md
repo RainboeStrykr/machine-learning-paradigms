@@ -38,7 +38,7 @@ pnpm install
 pnpm run dev
 ```
 
-This starts the Vite development server (configured with `--host`).
+This starts the Vite development server.
 
 ### Build for Production
 
