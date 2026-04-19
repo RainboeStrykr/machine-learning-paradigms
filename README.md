@@ -4,16 +4,6 @@
 
 ---
 
-## Authors
-
-| Name | Roll Number |
-|---|---|
-| Harsh Dubey | RA2411033010002 |
-| Mridula Manoj | RA2411033010012 |
-| Abhiraj Bhowmick | RA2411033010013 |
-
----
-
 ## About
 
 This is an interactive web-based presentation (20 slides) built with React + Vite. It covers the three core machine learning paradigms — from the fundamentals of supervised label-driven training, through unsupervised pattern discovery, to discovery-based exploratory inquiry — with real-world case studies and code examples for each.
@@ -164,3 +154,7 @@ ml-paradigms-seminar/
 | `pnpm run preview` | Preview the built frontend |
 | `pnpm run check` | TypeScript type-check (no emit) |
 | `pnpm run format` | Format all files with Prettier |
+
+---
+
+*Created by Abhiraj Bhowmick*
